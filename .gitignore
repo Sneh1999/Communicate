@@ -5,3 +5,4 @@ Backend/communicate
 ./Backend/__pycache__
 communicate
 .DS_Store
+./Backend/checkpoint.pth  
