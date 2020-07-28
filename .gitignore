@@ -3,3 +3,5 @@ __pycache__
 .vscode
 Backend/communicate
 ./Backend/__pycache__
+communicate
+.DS_Store

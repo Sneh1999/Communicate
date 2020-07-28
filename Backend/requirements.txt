@@ -1,2 +1,7 @@
-opencv-python==4.3.0.36
+opencv-python==3.4.3.18 
+numpy==1.14.5
+onnx==1.6.0
+onnxruntime==1.0.0
 imutils==0.5.3
+torch==1.2.0
+torchvision==0.4.0

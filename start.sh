@@ -15,4 +15,4 @@ source ./communicate/bin/activate
 pip3 install -r requirements.txt
 
 # Run
-python3 app.py
+python3 step_2_dataset.py
