@@ -1,2 +1,5 @@
 # Communicate
-A medium for deaf people to communicate with us  :) 
+A medium for deaf and dumb people to communicate with us  :) 
+```
+./start.sh
+```
