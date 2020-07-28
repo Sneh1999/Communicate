@@ -6,3 +6,4 @@ Backend/communicate
 communicate
 .DS_Store
 ./Backend/checkpoint.pth  
+./Backend/signlanguage.onnx
